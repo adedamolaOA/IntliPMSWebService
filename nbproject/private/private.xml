@@ -2,23 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/conf/persistence.xml</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CompanyPrivilegesController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/MaintenanceFundsController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CompanyRoomRateController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/MaintenanceCostingController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CustomerController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CustomerPrivilegesController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CompanyStaffsController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/web/index.html</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CustomerRoomRateController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/MaintenanceController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/MaintenanceApprovalController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/web/controller/CompanyController.java</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/web/WEB-INF/glassfish-resources.xml</file>
-            <file>file:/C:/Users/Adedamola/Documents/NetBeansProjects/IntliPMSWebService/src/java/com/intlipms/services/IntliPMSWebService.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
